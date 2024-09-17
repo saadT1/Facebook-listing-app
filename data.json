@@ -1,0 +1,232 @@
+{
+    "filename": "round1.json",
+    "listings": {
+        "beds": {
+            "Ambasidor bed": {
+                "no of listings": [
+                    50,
+                    51,
+                    52
+                ],
+                "title": "Ambassador Bed - Inbox for details",
+                "price": "100",
+                "category": "beds ",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\Ambasidor bed\\Ambassador bed 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "Arizona, stepline bed": {
+                "no of listings": [
+                    44,
+                    45,
+                    46
+                ],
+                "title": "Stepline Bed - Inbox for details",
+                "price": "120",
+                "category": "beds",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\Arizona , stepline bed\\Arizona bed 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "Divan ottoman bed": {
+                "no of listings": [
+                    40,
+                    41,
+                    42
+                ],
+                "title": "Ottoman Bed - Inbox for details",
+                "price": "90",
+                "category": "beds",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\Divan ottoman bed\\Divan ottoman 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "oxford wingback bed": {
+                "no of listings": [
+                    41,
+                    42,
+                    43,
+                    44
+                ],
+                "title": "oxford wingback bed- Inbox for details",
+                "price": "134",
+                "category": "beds",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\oxford wingback bed\\oxford wingback bed 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "Panel bed": {
+                "no of listings": [
+                    7,
+                    8,
+                    9
+                ],
+                "title": "Brand new Panal bed - Inbox for details",
+                "price": "44",
+                "category": "beds",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\Panel bed\\panel bed 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "heaven bed": {
+                "no of listings": [
+                    7,
+                    8,
+                    9
+                ],
+                "title": "Brand new Heaven bed - Inbox for details",
+                "price": "134",
+                "category": "beds",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\heaven bed\\Heaven bed 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "Panel wingback": {
+                "no of listings": [
+                    7,
+                    8,
+                    9
+                ],
+                "title": "Brand new Panel wingback bed- Inbox for details",
+                "price": "134",
+                "category": "beds",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\beds\\panel wingback bed\\Royal wingback bed 1\\bed {}.jpg",
+                "id": "//li[@id='3485763731447747']",
+                "id1": "//li[@id='832918287433116']"
+            }
+        },
+        "sofas": {
+            "Berlin sofa bed": {
+                "no of listings": [],
+                "title": "Berlin Sofa Bed - Inbox for details",
+                "price": "120",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\Berlin sofa bed\\sofa bed {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            },
+            "dino sofa": {
+                "no of listings": [
+                    26,
+                    27,
+                    28
+                ],
+                "title": "dino sofa - Inbox for details",
+                "price": "290",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\sofas\\dino sofa\\sofa {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            },
+            "dylan sofa": {
+                "no of listings": [
+                    26,
+                    27,
+                    28
+                ],
+                "title": "dylan sofa - Inbox for details",
+                "price": "234",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\sofas\\dylan sofa\\sofa {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            },
+            "verno sofa": {
+                "no of listings": [],
+                "title": "verno sofa - Inbox for details",
+                "price": "322",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\sofas\\verona sofa\\verno sofa\\sofa {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            },
+            "u-shape full back sofa": {
+                "no of listings": [],
+                "title": "u-shape full back sofa - Inbox for details",
+                "price": "123",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\sofas\\u-shape full back sofa\\sofa {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            },
+            "sorrento recliner sofa": {
+                "no of listings": [
+                    26,
+                    27,
+                    28
+                ],
+                "title": "sorrento recliner sofa - Inbox for details",
+                "price": "123",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\sofas\\sorrento recliner sofa\\sofa {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            },
+            "Oakland sofa": {
+                "no of listings": [],
+                "title": "Oakland sofa - Inbox for details",
+                "price": "123",
+                "category": "sofas",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\sofas\\Oakland sofa\\sofa {}.jpg",
+                "id": "//li[@id='2803248766443889']",
+                "id1": "//li[@id='995555767851510']"
+            }
+        },
+        "wardrobes": {
+            "high glass , chicago wardrobes": {
+                "no of listings": [],
+                "title": "high glass , chicago wardrobes - Inbox for details",
+                "price": "123",
+                "category": "wardrobe",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\wardrobe new\\high glass , chicago wardrobes\\wardrobe {}.jpg",
+                "id": "//li[@id='995555767851510']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "lisbon wadrobe": {
+                "no of listings": [],
+                "title": "lisbon wadrobe - Inbox for details",
+                "price": "123",
+                "category": "wardrobe",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\wardrobe new\\lisbon wadrobe\\wardrobe {}.jpg",
+                "id": "//li[@id='995555767851510']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "marsylia wardrobe": {
+                "no of listings": [],
+                "title": "marsylia wardrobe - Inbox for details",
+                "price": "123",
+                "category": "wardrobe",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\wardrobe new\\marsylia wardrobe\\wardrobe {}.jpg",
+                "id": "//li[@id='2913111312127863']",
+                "id1": "//li[@id='832918287433116']"
+            },
+            "vision wadrobe": {
+                "no of listings": [],
+                "title": "vision wadrobe - Inbox for details",
+                "price": "123",
+                "category": "wardrobe",
+                "description": "Available in all sizes and designs inbox for more details and price.",
+                "path": "C:\\Users\\saadt\\OneDrive\\Desktop\\Facebook listing\\furniture\\wardrobe new\\vision wadrobe\\wardrobe {}.jpg",
+                "id": "//li[@id='2913111312127863']",
+                "id1": "//li[@id='832918287433116']"
+            }
+        }
+    }
+}
