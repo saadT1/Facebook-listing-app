@@ -1,22 +1,11 @@
 {
-    "+923129884938": {
+    " uks250379@gmail.com": {
         "password": "Admin@21",
-        "location": "Cheltenham, Gloucestershire"
-    },
-    "+923270954303": {
-        "password": "Admin@21",
-        "location": "Thorne"
-    },
-    "+923185072018": {
-        "password": "Admin@21",
-        "location": "Wakefield"
-    },
-    "+923259016190": {
-        "password": "Admin@21",
-        "location": "Sheffield"
-    },
-    "+923334942786": {
-        "password": "Admin@55",
-        "location": "Solihull"
+        "location": [
+            "Romford, United Kingdom",
+            "Watford, Ontario",
+            "Oxford, Alabama",
+            "Swindon"
+        ]
     }
 }
